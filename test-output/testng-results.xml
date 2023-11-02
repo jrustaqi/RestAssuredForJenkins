@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3372" started-at="2023-11-02T17:39:28 CDT" finished-at="2023-11-02T17:39:32 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3372" started-at="2023-11-02T17:39:28 CDT" finished-at="2023-11-02T17:39:32 CDT">
+      <class name="testCases.UpdateOneProduct">
+        <test-method status="PASS" signature="updateOneProduct()[pri:1, instance:testCases.UpdateOneProduct@33c7e1bb]" name="updateOneProduct" duration-ms="2794" started-at="2023-11-02T17:39:28 CDT" finished-at="2023-11-02T17:39:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateOneProduct -->
+        <test-method status="PASS" signature="readOneUpdatedProduct()[pri:2, instance:testCases.UpdateOneProduct@33c7e1bb]" name="readOneUpdatedProduct" duration-ms="533" started-at="2023-11-02T17:39:31 CDT" finished-at="2023-11-02T17:39:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOneUpdatedProduct -->
+      </class> <!-- testCases.UpdateOneProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
